@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: grid;
+}
+.boldSpan {
+  font-weight: bold;
+}
